@@ -1,1 +1,1 @@
-it is the 2.txt file in master
+it is the 2.txt file in master by branch b2
